@@ -1,11 +1,16 @@
 import React from 'react';
 
-const Hello = (props) => {
-    console.log(props)
+const Hello = ({name, age}) => {
+    // console.log(props)
     return (
+        <>
         <p>
-            Hello {props.name}
+            Hello {name} 
         </p>
+        <p>
+             Возраст {age}
+        </p>
+        </>
     );
 };
 
