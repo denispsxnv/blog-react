@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "published": false
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "published": false
+    },
+    {
+      "title": "qwerty",
+      "published": true,
+      "id": 4
+    },
+    {
+      "title": "test",
+      "published": true,
+      "id": 5
+    },
+    {
+      "title": "test2",
+      "published": false,
+      "id": 6
+    }
+  ]
+}
